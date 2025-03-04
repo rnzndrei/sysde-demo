@@ -12,4 +12,5 @@ int main(){
     cout << "Panget";
     cout << "Ako lang";
     cout << "push up";
+
 }
