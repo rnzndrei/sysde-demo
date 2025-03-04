@@ -9,4 +9,6 @@ int main(){
     cout << "Test";
     cout << "edit";
     cout << "Renz";
+    cout<<"nyenye -xy"; //hello //hay naku bat ayaw
+    cout<<"SANA GUMANA NA";
 }
