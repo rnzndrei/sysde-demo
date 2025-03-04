@@ -9,6 +9,7 @@ int main(){
     cout << "Test";
     cout << "edit";
     cout << "Renz";
-    cout<<"hello -xy";
-    cout<<"pogi ni minghao";
+    
+    //alexa play gusto q na bumitaw by morisette
+    
 }
