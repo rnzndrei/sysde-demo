@@ -9,7 +9,8 @@ int main(){
     cout << "Test";
     cout << "edit";
     cout << "Renz";
-    
-    //alexa play gusto q na bumitaw by morisette
-    
+    cout << "Panget";
+    cout << "Ako lang";
+    cout << "push up";
+
 }
