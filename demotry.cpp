@@ -15,4 +15,6 @@ int main(){
     cout << "10 reps";
     cout << "One more time";
     cout << "Second more time";
+    cout << "mmmmmmmmo";
+    cout << "mimaclert";
 }
