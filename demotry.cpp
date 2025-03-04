@@ -14,4 +14,5 @@ int main(){
     cout << "push up";
     cout << "10 reps";
     cout << "One more time";
+    cout << "Second more time";
 }
