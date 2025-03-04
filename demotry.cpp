@@ -12,5 +12,9 @@ int main(){
     cout << "Panget";
     cout << "Ako lang";
     cout << "push up";
-
+    cout << "10 reps";
+    cout << "One more time";
+    cout << "Second more time";
+    cout << "mmmmmmmmo";
+    cout << "mimaclert1111";
 }
