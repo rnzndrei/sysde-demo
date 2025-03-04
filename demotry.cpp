@@ -4,4 +4,5 @@ using namespace std;
 int main(){
     cout << "Hello" << endl;
     cout << "First Edit";         //Added first
+    cout << "Second Edit";        //Added second
 }
