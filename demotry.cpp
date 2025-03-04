@@ -11,4 +11,5 @@ int main(){
     cout << "Renz";
     cout << "Panget";
     cout << "Ako lang";
+    cout << "push up";
 }
