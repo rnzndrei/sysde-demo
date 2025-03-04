@@ -9,4 +9,6 @@ int main(){
     cout << "Test";
     cout << "edit";
     cout << "Renz";
+    cout<<"hello -xy";
+    cout<<"pogi ni minghao";
 }
