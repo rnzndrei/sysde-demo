@@ -13,4 +13,5 @@ int main(){
     cout << "Ako lang";
     cout << "push up";
     cout << "10 reps";
+    cout << "One more time";
 }
